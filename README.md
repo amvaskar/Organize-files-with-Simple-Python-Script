@@ -6,6 +6,6 @@ To use this Script Please run it with python3:
 
 1. Copy the above codeblock and paste it into a file named organize_files.py
 
-2. Run this file using $ python organize_files.py <Your Directory> for eg: $ python organize.py /directory/to/organize/
+2. Run this file using $ python organize_files.py <Your Directory> for eg: $ python organize_files.py /directory/to/organize/
   
   This code is Python3 Compatible & note the / at the last of Directory in Command line arguments.
